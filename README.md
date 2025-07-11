@@ -61,12 +61,36 @@ This project is part of my data portfolio demonstrating both **data analysis ski
 
 ---
 
+
 ## 📎 Project Files
 
 - `notebooks/retail_analysis.ipynb`: full analysis in Jupyter Notebook  
+- `dashboard/retail_dashboard.pbix`: interactive Power BI dashboard file  
+- `images/powerbi_dashboard.png`: preview image of the dashboard  
 - `data/`: original dataset  
 - `README.md`: this file
 
 ---
+
+## 📊 Power BI Dashboard 
+
+To complement the Jupyter notebook analysis, I created an interactive dashboard using Power BI.
+
+### Key Metrics Displayed:
+- 💰 **Total Revenue**
+- 📈 **Revenue Over Time**
+- 👤 **Unique Customers**
+- 🌍 **Revenue by Country**
+- 🏆 **Top 10 Products by Sales**
+
+📂 File available in the [`dashboard`](./dashboard/retail_dashboard.pbix) folder.  
+🖼️ Preview:
+
+![Power BI Dashboard](./images/powerbi_dashboard.png)
+
+---
+
+*This dashboard provides a high-level, visual summary of the online retail performance and can be used by business teams for quick strategic decisions.*
+
 
 📌 *This project is part of a data analytics portfolio focused on business understanding and storytelling.*
